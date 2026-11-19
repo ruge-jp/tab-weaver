@@ -207,7 +207,7 @@ chrome.contextMenus.onClicked.addListener(async (info, tab) => {
     "@babel/core": "^7.23.0",
     "jest": "^29.7.0",
     "eslint": "^8.57.0",
-    "@types/chrome": "^0.0.246"
+    "@types/chrome": "^0.3.7"
   }
 }
 ```
